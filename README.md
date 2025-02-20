@@ -26,7 +26,3 @@
 - **Библиотеки**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Базы данных**: PostgreSQL, MySQL  
 
-## 🚀 Контакты
-📧 Email: [ТВОЙ EMAIL]  
-💼 LinkedIn: [ТВОЙ ЛИНКЕДИН]  
-📁 GitHub: [ТВОЙ ГИТХАБ]  
